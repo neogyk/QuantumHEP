@@ -59,8 +59,13 @@ Computational needs of quantum mechanical calculations of
 materials for high-energy physics
 https://arxiv.org/pdf/2205.10699.pdf
 
+https://arxiv.org/pdf/2307.03236.pdf
+
 Quantum computing fidelity susceptibility using automatic differentiation
 https://arxiv.org/pdf/2207.06526.pdf
 
-
+Quantum Computing for High-Energy Physics
+State of the Art and Challenges
+Summary of the QC4HEP Working Group
+https://arxiv.org/pdf/2307.03236.pdf
 
